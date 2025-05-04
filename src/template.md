@@ -6,6 +6,10 @@ Date: DATE
 
 STATUS
 
+## JIRA Ticket 
+
+[Link to JIRA Ticket]() 
+
 ## Context
 
 The issue motivating this decision, and any context that influences or constrains the decision.
